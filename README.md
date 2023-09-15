@@ -29,7 +29,7 @@
 - **Top 5 Production Companies:** limited the displayed information to the top 5 production companies. This design choice enhances user experience by allowing data to fit neatly within the dashboard's space. Users can easily perceive and digest information without the need for scrolling or zooming, aligning with Shneiderman's methodology (Shneiderman, 1996).
 - **Enhanced Line Graph:** The line graph has been improved to display net profit trends over months more effectively. This enhancement aligns with principles from both Bertin's image theory and Gestalt's principle. Colored lines highlight continuity and common fate, enhancing data interpretation (Bertin, 2000; Chapman, 2022).
 - **Utilization of Box Plot and Grouped Bar Chart:** We incorporated a box plot and grouped bar chart to enhance data clarity.
-- **[Full Data Cleaning and Implementation Instructions](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Data%20Preparation%20and%20Tableau%20Implementation.pdf)**
+- **[Full Data Preparation and Implementation Instructions](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Data%20Preparation%20and%20Tableau%20Implementation.pdf)**
 
 ![Tableau Dashboard Pic](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/What%20Makes%20a%20Movie%20Producer%20Successful.png)
 
