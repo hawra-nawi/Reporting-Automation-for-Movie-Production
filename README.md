@@ -5,7 +5,7 @@
 - Objective: "*Data visualization is a collection of methods that use visual representations to explore, make sense of, and communicate quantitative data*" - Stephen Few
     - A model *of data transformed into visual form, extracted from (Card, 2008):*
 
-![Data Model]([https://prod-files-secure.s3.us-west-2.amazonaws.com/5f367aab-ef85-42d7-bb60-620249158283/0a0fadde-536e-479c-a88e-9da07d8e848a/Untitled.png](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/Data%20Visualisation%20Model.png))
+![Data Model](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/Data%20Visualisation%20Model.png)
 
 - This project explores the factors contributing to the success of movie productions, including net profit, movie scores, genre, and release dates across different countries.
 - Through data visualization and infographic story telling, we aim to provide insights into the following questions:
@@ -31,7 +31,7 @@
 - **Utilization of Box Plot and Grouped Bar Chart:** We incorporated a box plot and grouped bar chart to enhance data clarity.
 - **[Full Data Cleaning and Implementation Instructions](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Data%20Preparation%20and%20Tableau%20Implementation.pdf)**
 
-![Tableau Dashboard Pic](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/Paper%20Landscape%20and%20Proposal%20Capture.png)
+![Tableau Dashboard Pic](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/What%20Makes%20a%20Movie%20Producer%20Successful.png)
 
 ### **How to Use:**
 
@@ -46,7 +46,7 @@
 - However, it has limitations in dividing trend line graphs into segments and applying filters to grouped bar plots.
 - Visualizations in Power BI may not be as comprehensive as Tableau.
 
-![PowerBI Dashboard Image]([https://prod-files-secure.s3.us-west-2.amazonaws.com/5f367aab-ef85-42d7-bb60-620249158283/e2c44a52-b3c8-4386-a286-7298818ab8d8/Untitled.png](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/PowerBI.png))
+![PowerBI Dashboard Image](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/PowerBI.png)
 
 ## **Walkthrough**
 
