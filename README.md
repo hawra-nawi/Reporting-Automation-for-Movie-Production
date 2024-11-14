@@ -4,7 +4,7 @@ Automated reporting and visualisations for movie production data to identify key
 
 ## **Approach**
 
-- **Data Processing Pipeline**: Built in R (using `dplyr`, `tidyr`, and `stringr`), reducing processing time by 50% and optimizing data preparation for **Tableau** and **PowerBI** dashboards.
+- **Data Processing Pipeline**: Built in R (using `dplyr`, `tidyr`, and `stringr`), reducing processing time by 50% and optimising data preparation for **Tableau** and **PowerBI** dashboards.
 - **Data Dashboard (Tableau)**:  
    ![Tableau Dashboard Pic](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Images/What%20Makes%20a%20Movie%20Producer%20Successful.png)
    
@@ -16,7 +16,7 @@ Automated reporting and visualisations for movie production data to identify key
 
 ## **Tools**
 - **Languages**: R, Excel
-- **Visualization**: Tableau, PowerBI
+- **Visualisation**: Tableau, PowerBI
 
 ## **Documentation**
 
