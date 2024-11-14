@@ -20,8 +20,6 @@ Automated reporting and visualisations for movie production data to identify key
 
 ## **Documentation**
 
-The **Files** folder contains:
-
 1. **[Data Cleaning and Preparation](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/tree/main/Files/Data%20Cleaning%20and%20Preparation)**:
     - *`Data Cleaning and Preparation.Rproj`*: R Project file for data preparation.
     - *[`Movies-Data Cleaning and Preparation.R`](https://github.com/hawra-nawi/Movie_Production_Data_Visualisation/blob/main/Files/Data%20Cleaning%20and%20Preparation/Movies-Data%20Cleaning%20and%20Preparation.R)*: R script for data cleaning.
